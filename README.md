@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joselino-med (Joselino Rodrigues)
+- 👋 Hi, I’m @joselino-rodrigues (Joselino Rodrigues)
 - 👀 I’m interested in health informatics
 - 🌱 I’m currently learning MySql/PHP/HTML/CSS
 - 💞️ I’m looking to collaborate on ...
